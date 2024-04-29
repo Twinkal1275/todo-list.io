@@ -1,0 +1,18 @@
+li
+{
+    width: 70% !important;
+    padding: 10px 20px;
+    list-style: none;
+    border: 1px solid black;
+    margin-left: 2%;
+    margin-top: 3%      ;
+}
+button
+{
+    margin-left: 20px !important;
+    border: none;
+}
+button:hover
+{
+    box-shadow: 0px 2px 10px black;
+}
